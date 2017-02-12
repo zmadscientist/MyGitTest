@@ -3,3 +3,4 @@ test 2/11
 changed at origin and verfied local
 another change in repository
 addited stuff in local then did add, commit, push
+trying to emulate a merge conflict with these additions on local master
