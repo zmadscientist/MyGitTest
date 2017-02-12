@@ -1,6 +1,9 @@
 hello
 test 2/11
-changed at origin and verfied local
+changed at origin and verified local
 another change in repository
-addited stuff in local then did add, commit, push
+added stuff in local then did add, commit, push
 trying to emulate a merge conflict with these additions on local master
+OFL: ok official changes here
+OFL: two lines
+corrected spelling and added OFLs
